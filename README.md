@@ -74,6 +74,5 @@ Feel free to submit issues and enhancement requests.
 
 ## License
 
-Copyright © 2024 Mercury Construction. All rights reserved.
+Copyright © 2025 Mercury Construction. All rights reserved.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
